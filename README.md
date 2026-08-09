@@ -19,11 +19,7 @@ Atualmente atuo na **Enel Brasil**, trabalhando com indicadores operacionais e d
 
 ### 📊 Projetos
 
-**[sin-implantes-bi](https://github.com/humberto-hms/sin-implantes-bi)** — Análise comercial com SQL Server e Power BI
-Projeto de Business Intelligence e pricing sobre uma empresa fictícia de implantes odontológicos, com modelagem de dados, análise de indicadores comerciais e apoio à decisão de preços.
-
-**Projeto de análise de dados e estatística** — *em desenvolvimento* 🚧
-Próximo projeto, com foco em análise exploratória e estatística descritiva.
+**[sin-implantes-bi](https://github.com/humberto-hms/sin-implantes-bi)** — Projeto de Business Intelligence e pricing sobre uma empresa fictícia de implantes odontológicos, com modelagem de dados em SQL Server, análise de indicadores comerciais no Power BI e apoio à decisão de preços.
 
 ---
 
